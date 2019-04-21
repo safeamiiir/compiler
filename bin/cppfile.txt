@@ -1,0 +1,22 @@
+#+include <iostream>
+using namespace std;
+
+int main(){
+   	cout << "this is 11";
+	a[1] = 3;
+   	return 0;
+	for (int i = 0; i<0; i++){
+		 cout<<"tst";
+	}
+}
+}
+/****
+ * Common multi-line comment style.
+ ****/
+ 0code_here
+/****
+ * Another common multi-line comment style.
+ */
+ 
+ // Here we go !
+	"Hello"

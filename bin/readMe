@@ -1,0 +1,114 @@
+Expression // Comment
+Ignore all subsequent text
+Class :: Member
+Class ::~Member
+:: Name
+Member of class
+Member of class (destructor)
+Global
+Structure . Field
+Pointer -> Field
+Name [integer]
+LValue ++
+LValue --
+dynamic_cast <type>(Value)
+static_cast <type>(Value)
+reinterpret_cast <type>(Value)
+const_cast <type>(Value)
+Field in a structure
+Field in referenced structure
+Array subscript
+Increment (after evaluation)
+Decrement (after evaluation)
+Typecast (always performed)
+Typecast (always performed)
+Typecast (always performed)
+Typecast (always performed)
+(type) Value
+sizeof value
+sizeof( type )
+++ LValue
+-- LValue
+~ Value
+! Value
+Value
++ Value
+& LValue
+Value
+Typecast (always performed)
+Size of expression
+Size of data type
+Increment (before evaluation)
+Decrement (before evaluation)
+Bit complement
+Not (Boolean)
+Unary minus
+Unary plus
+Address of data type
+Dereference
+Structure . Pointer
+Pointer -> * Pointer
+Pointer to member of structure
+Pointer to member of referenced structure
+Value Value
+Value / Value
+Value % Value
+Multiplication
+Division
+Modulus
+Value + Value
+Value - Value
+Addition
+Subtraction
+Value << Value
+Value >> Value
+Bitwise shift left
+Bitwise shift right
+Value < Value
+Value <= Value
+Value > Value
+Value >= Value
+Less than (comparison)
+Less than or equal (comparison)
+Greater than (comparison)
+Greater than or equal (comparison)
+Value == Value
+Value != Value
+Equal (comparison)
+Not equal (comparison)
+Value & Value
+Bitwise AND
+Value ^ Value
+Bitwise XOR (exclusive OR)
+Value | Value
+Bitwise OR
+Value && Value
+Logical AND
+Value || Value
+Logical OR
+LValue =Value
+LValue = Value
+LValue /= Value
+LValue %=Value
+LValue +=Value
+LValue -= Value
+LValue <<= Value
+LValue >>= Value
+LValue &= Value
+LValue |= Value
+LValue ^= Value
+Assign
+Multiply and assign
+Divide and assign
+Modulo and assign
+Add and assign
+Subtract and assign
+Shift left and assign
+Shift right and assign
+AND and assign
+OR and assign
+XOR and assign
+Value ? Value : Value
+Conditional evaluation
+Value , Value
+Evaluate all values, and then discard all except the rightmost value
